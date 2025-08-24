@@ -1,3 +1,0 @@
-# StableDiffusionPromptManager runtime deps
-# Tkinter/ttk ship with standard Python on Windows/macOS; on some Linux distros you may need python3-tk.
-Pillow>=10.0.0
