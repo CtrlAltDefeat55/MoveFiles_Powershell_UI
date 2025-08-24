@@ -40,7 +40,8 @@ The app does **not** modify files in place unless you choose **Move** mode; in *
 
 ## Screenshots
 
-*(Optional: add screenshots to the `assets/` folder and reference them here.)*
+<img width="780" height="707" alt="MoveFiles_UI" src="https://github.com/user-attachments/assets/7148f267-349c-4591-85df-74240407d6c3" />
+
 
 ## Installation
 
